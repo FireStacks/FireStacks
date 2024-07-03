@@ -2,7 +2,7 @@
 - 👀 I’m interested in manythings
 - 🌱 I’m currently learning manythings
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me discord
+- 📫 How to reach me - anywhere (discord) ideally 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: i am very boring
 
