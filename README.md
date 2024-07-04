@@ -19,7 +19,6 @@
 
 - ⚡ Fun fact **I am very boring**
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1093183800340644000?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1093183800340644000)
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
