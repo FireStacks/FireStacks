@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-   <a href="https://discord.com/users/759180080328081450">
+   <a href="https://discordapp.com/users/1093183800340644000">
       <img src="https://lanyard.cnrad.dev/api/1093183800340644000?theme=dark&animated=true" />
    </a>
 </p>
