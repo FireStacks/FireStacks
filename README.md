@@ -8,6 +8,12 @@
    </a>
 </p>
 
+<p align="center">
+   <a href="https://api-ninjas.com/">
+      <img src="https://your-service.com/api/fact-image" alt="Fact of the Day" />
+   </a>
+</p>
+
 ## Info -
 
 Hi there, I'm **Fire** a Developer, duh.
