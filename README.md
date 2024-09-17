@@ -2,18 +2,6 @@
     <img src="https://github.com/FireStacks/FireStacks/blob/main/anime-welcome.gif" />
 </p>
 
-<p align="center">
-   <a href="https://discordapp.com/users/1093183800340644000">
-      <img src="https://lanyard.cnrad.dev/api/1093183800340644000?theme=dark&animated=true" />
-   </a>
-</p>
-
-<p align="center">
-   <a href="https://api-ninjas.com/">
-      <img src="https://your-service.com/api/fact-image" alt="Fact of the Day" />
-   </a>
-</p>
-
 ## Info -
 
 Hi there, I'm **Fire** a Developer, duh.
