@@ -1,17 +1,18 @@
-<p align="center">
-    <img src="https://github.com/FireStacks/FireStacks/blob/main/anime-welcome.gif" />
-</p>
+<div align="center">
+  <img src="https://github.com/FireStacks/FireStacks/blob/main/anime-welcome.gif" alt="Anime Welcome" />
+</div>
+
+<br></br>
 
 <p align="center">
-   <a href="https://discordapp.com/users/1093183800340644000">
-      <img src="https://lanyard.cnrad.dev/api/1093183800340644000?theme=dark&animated=true" />
-   </a>
+  <a href="https://api.discord-status.me/1093183800340644000?nitro&boost=4&gradient=%23ffcc15%2C%23bf0dc3%2C%230cc0c3%2C%230cc02d">
+    <img src="https://api.discord-status.me/1093183800340644000?nitro&boost=4&gradient=%23ffcc15%2C%23bf0dc3%2C%230cc0c3%2C%230cc02d" alt="Discord Status" />
+  </a>
 </p>
-
 
 ## Info -
 
-Hi there, I'm **Fire** a Developer, duh.
+Hi there, I'm **Fire**, a Developer, duh.
 
 ```javascript
 const Fire_Stacks = {
