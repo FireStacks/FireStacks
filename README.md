@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/FireStacks/FireStacks/blob/main/anime-welcome.gif" alt="Anime Welcome" />
+  <img src="https://github.com/FireStacks/FireStacks/blob/main/--.gif" alt="Anime Welcome" />
 </div>
 
 <br></br>
